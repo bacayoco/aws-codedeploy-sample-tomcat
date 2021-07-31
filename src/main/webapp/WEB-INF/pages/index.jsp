@@ -108,7 +108,7 @@
           </div>
           <div class="panel-body">
             With suits these fashionable, no one will question why your pet is there!
-            <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
+            <img src="images/fancy-dog2.png" style="width:295px;height:433px;">
           </div>
         </div>
       </div>
